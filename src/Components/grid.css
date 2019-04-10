@@ -1,0 +1,4 @@
+.fixed-navbar{
+    display: grid;
+    grid-template-columns: 90px;
+}
